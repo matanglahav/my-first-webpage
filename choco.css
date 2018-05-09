@@ -1,0 +1,54 @@
+ul {
+    display: inline;
+    margin: 10px;
+    padding: 0;
+    width: 25%;
+    height: 100%; /* Full height */
+    color: red;
+
+}
+
+li {
+    display: inline;
+    color: red;
+}
+
+li a {
+
+    text-align: left;
+    padding: 1px 3px;
+    text-decoration: none;
+
+
+}
+
+body ul{
+    text-align: left;
+    display: block;
+    margin: 10px;
+    padding: 30px;
+    width: 25%;
+    height: 100%; /* Full height */
+    color: red;
+    
+}
+
+footer ul{
+
+    padding: 10px 15px;
+    font-size:15px;
+}
+h1 {
+    background-color: #F1F1F1;
+    text-align: left;
+    padding: 20px;
+    color: saddlebrown;
+}
+
+p {
+    color:firebrick ;
+    text-align: left;
+    font-family: "Andale Mono";
+    font-size: 20px;
+}
+
