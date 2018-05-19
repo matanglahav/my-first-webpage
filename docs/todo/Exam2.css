@@ -1,0 +1,123 @@
+
+ body {
+   height: 100%;
+   weight: 100%;
+
+ }
+
+.main-nav {
+  list-style-type: none;
+  padding: 20px;
+  margin: 0;
+  overflow: hidden;
+  background-color: #333;
+
+}
+
+.main-nav li {
+  float: left;
+
+}
+
+.main-nav li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+.main-nav li a:hover {
+  background-color: grey;
+}
+
+ .main-nav .active {
+   background-color: #4CAF50;
+ }
+
+.dropdown-content
+{
+
+}
+
+.left-nav  {
+   list-style-type: none;
+   margin: 50px;
+   padding: 0px;
+   position: absolute;
+   top:250px;
+
+}
+
+.left-nav li
+{
+  padding: 15px;
+
+}
+
+ .left-nav li a {
+   display: block;
+   width: 60px;
+   background-color: white;
+   text-decoration: none;
+   color: black;
+ }
+
+ .left-head
+ {
+   color: darkgrey;
+   font-weight: bold;
+   opacity: 0.8;
+   text-transform: uppercase;
+
+
+ }
+
+ .right-nav {
+   list-style-type: none;
+   margin: 50px;
+   padding: 0px;
+   position: absolute;
+   top:250px;
+   right: 30px;
+ }
+
+ .right-nav li
+ {
+   padding: 8px;
+ }
+
+ .right-nav li a
+ {
+   display: block;
+   width: 60px;
+   background-color: white;
+   color:black;
+   text-decoration: none;
+   opacity: 0.5;
+ }
+
+ .paragraph1 {
+   position: absolute;
+   top: 300px;
+   left: 450px;
+   font-size: 25px;
+ }
+
+ .blue-background
+ {
+   background-color: royalblue;
+   padding:35px;
+   height: 25vh;
+   width: 100%;
+   transform: translate(0, 75vh);
+   text-align: center;
+
+ }
+
+ .p2 {
+    font-size: 50px;
+   color: white;
+
+ }
+

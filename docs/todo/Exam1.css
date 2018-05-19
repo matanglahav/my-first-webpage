@@ -1,0 +1,100 @@
+*
+{
+  margin: 0;
+  padding: 0;
+
+}
+
+.date
+{
+
+}
+
+.row
+{
+  position: relative;
+
+
+}
+
+.main-nav
+{
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+
+
+}
+
+.main-nav li
+{
+  display: inline;
+  float: right;
+  margin: 0px 25px 10px 5px;
+
+
+}
+
+.main-nav li a
+{
+  color: #000000;
+  text-decoration: none;
+}
+
+.date li
+{
+  display: inline;
+  margin-right: 5px;
+}
+
+.text
+{
+  font-family: arial;
+
+}
+
+.headline
+{
+  position: absolute;
+  right: 50%;
+  top: 20%;
+  text-align: center;
+
+
+
+}
+
+.sub-headline
+{
+  font-size: 30px;
+  margin-bottom: 25px;
+  color: grey;
+  margin-top: 25px;
+
+
+}
+
+.content
+{
+  position: absolute;
+  top: 30%;
+  text-align: left;
+  padding: 30px;
+
+}
+
+.title
+{
+  font-size: 25px;
+
+}
+
+.paragraph
+{
+
+  margin-top: 25px;
+}
+
+
+
+
